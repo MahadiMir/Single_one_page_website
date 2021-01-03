@@ -1366,10 +1366,13 @@ textarea {
   color: #333;
   text-align: center;
   margin: 0;
+  font-weight: bold;
+  font-size: 15px;
 }
 
 #copyright p a {
   color: #EA2027;
+  font-family: 'Audiowide', cursive;
 }
 
 .social-icon a {
