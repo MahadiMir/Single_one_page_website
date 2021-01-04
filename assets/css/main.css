@@ -24,7 +24,19 @@ h1, h2, h3, h4 {
   font-weight: 700;
   font-family: 'Arvo', serif;
 }
-
+.tech{
+  margin-top: 30px;
+  font-family: 'Goldman', cursive;
+  font-size: 74px;
+  color: #EA2027;
+  letter-spacing: 15px;
+}
+.tagl{
+  margin-left: 14px;
+  font-size: 22px;
+  font-family: 'Goldman', cursive;
+  color: #0b0b0b;
+}
 a {
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -530,7 +542,7 @@ hr {
 }
 
 .top-nav-collapse .navbar-brand img {
-  width: 70%;
+  width: 200px;
 }
 
 .top-nav-collapse .navbar-nav .nav-link {
@@ -755,7 +767,7 @@ hr {
 
 #hero-area .contents .head-title {
   color: #222222;
-  font-size: 42px;
+  font-size: 137px;
   font-weight: 700;
   line-height: 60px;
   margin-bottom: 10px;
@@ -1460,4 +1472,21 @@ textarea {
 
 .btn1-rm:hover {
   color: #EA2027;
+}
+
+.intro-img{
+  width: 600px;
+  margin-left: 140px;
+  margin-top: -130px;
+}
+
+.para{
+  margin-top: 30px;
+  color: #0b0b0b;
+  font-family: 'Hammersmith One', sans-serif;
+  font-size: 15px;
+}
+
+.facebook{
+  margin-left: 65px;
 }

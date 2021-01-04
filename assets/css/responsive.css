@@ -1,4 +1,8 @@
-
+@media only screen and (max-width: 1919px) {
+  #hero-area .contents .head-title {
+    font-size: 137px;
+  }
+}
 /* only small desktops */
 @media (min-width: 992px) and (max-width: 1199px) {
   #hero-area .contents .head-title {
@@ -103,107 +107,535 @@
   .section-padding {
     padding: 60px 0;
   }
+
   .section-title {
     font-size: 22px;
     margin-bottom: 30px;
   }
+
   .navbar-expand-md .navbar-brand,
   .navbar-expand-md .navbar-toggler {
     margin: 0px 15px;
   }
+
   .bg-inverse {
     background: #fff !important;
     box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
   }
+
   .navbar-expand-md .navbar-nav .nav-link {
     margin-bottom: 0;
     margin-top: 0;
   }
+
   .navbar-brand img {
     margin: 5px 0;
+    width: 200px;
   }
+
   .top-nav-collapse .navbar-brand img {
     margin-top: 10px;
   }
+
   .intro-img {
     margin-top: 20px;
   }
+
   #hero-area .img-thumb {
     display: none;
   }
+
   #hero-area .contents .head-title {
-    font-size: 22px;
+    font-size: 70px;
     line-height: 36px;
     margin-bottom: 15px;
+    margin-left: 85px;
   }
+
   #hero-area .contents p {
     font-size: 14px;
   }
+
   #hero-area {
     padding: 120px 0 80px;
   }
+
   #hero-area .contents .btn {
     margin: 5px 10px 10px 0px;
   }
+
   .text-wrapper {
     padding: 60px 15px;
   }
+
   #about .sec-title h3 {
     font-size: 22px;
     line-height: 36px;
   }
-  .about-area img {
-    margin-top: 30px;
-  }
+
   .feature-thumb {
     padding: 10px;
   }
+
   .testimonial-item {
     padding: 0;
   }
+
   .client-item-wrapper img {
     width: 50%;
   }
+
   #cta h4 {
     font-size: 22px;
   }
+
   #cta .text-right {
     float: left !important;
   }
+
   #cta .btn {
     float: left;
   }
+
   .team-item .team-img {
     width: 100%;
     float: none;
   }
+
   .team-item .contetn {
     padding: 15px 30px;
   }
+
   .footer-right-contact .single-contact {
     margin: 10px 7px;
     padding: 3px 45px;
   }
+
   .footer-area .footer-titel {
     margin-top: 30px;
   }
+
   .contact-right-area {
     margin: 20px 0;
   }
+
   .contact-form-area h2 {
     font-size: 14px;
   }
+
   .copyright .float-right {
     float: left !important;
   }
+
   .map {
     margin-top: 20px;
   }
+
   #cta {
     padding: 20px 0;
   }
+
   .cta-text {
     margin-bottom: 30px;
   }
 
+  /*custom*/
+  .tech {
+    margin-top: 10px;
+    font-family: 'Goldman', cursive;
+    font-size: 45px;
+    color: #EA2027;
+    letter-spacing: 5px;
+    margin-left: 74px;
+  }
+
+  .tagl {
+    width: 100%;
+    margin-left: 99px;
+    font-size: 15px;
+    font-family: 'Goldman', cursive;
+    color: #0b0b0b;
+  }
+
+  #hero-area .contents .header-button .btn {
+    margin-right: 10px;
+    margin-left: 80px;
+  }
+
+  .intro-img {
+    width: 300px;
+    margin-left: 42px;
+    margin-top: -10px;
+  }
+
+  .about-area img {
+    margin-top: -40px;
+  }
+
+  .section-titleabout {
+    font-size: 30px;
+    text-align: center;
+
+  }
+
+  .para {
+    margin-top: 30px;
+    color: #0b0b0b;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    width: 90%;
+    margin-left: 20px;
+  }
+
+  .bth {
+    margin-left: 63px;
+  }
+
+  .btn {
+    width: 380px;
+  }
+
+  .flo {
+    width: 180px;
+  }
+
+  .bad {
+    width: 100%;
+  }
+
+  .bad1 {
+    width: 100%;
+  }
+
+  .footer-area .address li {
+    margin-bottom: 0px;
+  }
+
+  .footer-area .footer-titel {
+
+    padding-bottom: 0px;
+
+  }
+
+  #copyright .copyright-content {
+    border-top: 1px solid rgb(213, 212, 233);
+    /* padding: 15px 0px; */
+    margin: 27px 0px 0px;
+    font-size: 10px;
+  }
+
+  #copyright p {
+    line-height: 42px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+}
+
+@media (min-width: 566px) and (max-width: 766px){
+  .section-padding {
+    padding: 60px 0;
+  }
+
+  .section-title {
+    font-size: 22px;
+    margin-bottom: 30px;
+  }
+
+  .navbar-expand-md .navbar-brand,
+  .navbar-expand-md .navbar-toggler {
+    margin: 0px 15px;
+  }
+
+  .bg-inverse {
+    background: #fff !important;
+    box-shadow: 0px 3px 6px 3px rgba(0, 0, 0, 0.06);
+  }
+
+  .navbar-expand-md .navbar-nav .nav-link {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .navbar-brand img {
+    margin: 5px 0;
+    width: 200px;
+  }
+
+  .top-nav-collapse .navbar-brand img {
+    margin-top: 10px;
+  }
+
+  .intro-img {
+    margin-top: 20px;
+  }
+
+  #hero-area .img-thumb {
+    display: none;
+  }
+
+  #hero-area .contents .head-title {
+    font-size: 70px;
+    line-height: 36px;
+    margin-bottom: 15px;
+    margin-left: 85px;
+  }
+
+  #hero-area .contents p {
+    font-size: 14px;
+  }
+
+  #hero-area {
+    padding: 120px 0 80px;
+  }
+
+  #hero-area .contents .btn {
+    margin: 5px 10px 10px 0px;
+  }
+
+  .text-wrapper {
+    padding: 60px 15px;
+  }
+
+  #about .sec-title h3 {
+    font-size: 22px;
+    line-height: 36px;
+  }
+
+  .feature-thumb {
+    padding: 10px;
+  }
+
+  .testimonial-item {
+    padding: 0;
+  }
+
+  .client-item-wrapper img {
+    width: 50%;
+  }
+
+  #cta h4 {
+    font-size: 22px;
+  }
+
+  #cta .text-right {
+    float: left !important;
+  }
+
+  #cta .btn {
+    float: left;
+  }
+
+  .team-item .team-img {
+    width: 100%;
+    float: none;
+  }
+
+  .team-item .contetn {
+    padding: 15px 30px;
+  }
+
+  .footer-right-contact .single-contact {
+    margin: 10px 7px;
+    padding: 3px 45px;
+  }
+
+  .footer-area .footer-titel {
+    margin-top: 30px;
+  }
+
+  .contact-right-area {
+    margin: 20px 0;
+  }
+
+  .contact-form-area h2 {
+    font-size: 14px;
+  }
+
+  .copyright .float-right {
+    float: left !important;
+  }
+
+  .map {
+    margin-top: 20px;
+  }
+
+  #cta {
+    padding: 20px 0;
+  }
+
+  .cta-text {
+    margin-bottom: 30px;
+  }
+
+  /*custom*/
+  .tech {
+    margin-top: 10px;
+    font-family: 'Goldman', cursive;
+    font-size: 45px;
+    color: #EA2027;
+    letter-spacing: 5px;
+    margin-left: 74px;
+  }
+
+  .tagl {
+    width: 100%;
+    margin-left: 99px;
+    font-size: 15px;
+    font-family: 'Goldman', cursive;
+    color: #0b0b0b;
+  }
+
+  #hero-area .contents .header-button .btn {
+    margin-right: 10px;
+    margin-left: 80px;
+  }
+
+  .intro-img {
+    width: 300px;
+    margin-left: 42px;
+    margin-top: -10px;
+  }
+
+  .about-area img {
+    margin-top: -40px;
+  }
+
+  .section-titleabout {
+    font-size: 30px;
+    text-align: center;
+
+  }
+
+  .para {
+    margin-top: 30px;
+    color: #0b0b0b;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    width: 90%;
+    margin-left: 20px;
+  }
+
+  .bth {
+    margin-left: 63px;
+  }
+
+  .btn {
+    width: 380px;
+  }
+
+  .flo {
+    width: 180px;
+  }
+
+  .bad {
+    width: 100%;
+  }
+
+  .bad1 {
+    width: 100%;
+  }
+
+  .footer-area .address li {
+    margin-bottom: 0px;
+  }
+
+  .footer-area .footer-titel {
+
+    padding-bottom: 0px;
+
+  }
+
+  #copyright .copyright-content {
+    border-top: 1px solid rgb(213, 212, 233);
+    /* padding: 15px 0px; */
+    margin: 27px 0px 0px;
+    font-size: 10px;
+  }
+
+  #copyright p {
+    line-height: 42px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 14px;
+  }
+  .footer-area{
+    padding-bottom: 0px;
+  }
+
+}
+/*@media (max-width: 666px) {*/
+
+/*}*/
+@media (max-width: 565px){
+  .tech{
+    margin-top: 10px;
+    font-family: 'Goldman', cursive;
+    font-size:40px;
+    color: #EA2027;
+    letter-spacing: 5px;
+    margin-left: 69px;
+  }
+  #hero-area .contents .head-title {
+    font-size: 67px;
+    line-height: 36px;
+    margin-bottom: 15px;
+    margin-left: 69px;
+  }
+
+  #hero-area .contents p {
+    font-size: 12px;
+  }
+  #hero-area .contents .header-button .btn {
+    margin-right: 10px;
+    margin-left: 89px;
+  }
+  .btn {
+    width: 310px;
+  }
+  .intro-img {
+    width: 300px;
+    margin-left: 15px;
+    margin-top: -10px;
+  }
+  .para {
+    margin-top: 30px;
+    color: #0b0b0b;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 12px;
+    text-align: justify;
+    width: 90%;
+    margin-left: 16px;
+  }
+  .project-area #btn1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(234, 32, 39);
+    border: 1px solid rgb(255, 255, 255);
+    font-weight: 600;
+    border-radius: 5px;
+     padding: 0.1rem 1rem;
+  }
+  .subm{
+    margin-left: 10px;
+  }
+  .flo {
+    width: 200px;
+  }
+  #copyright p {
+    line-height: 42px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+    margin: 0px;
+    font-weight: bold;
+    font-size: 12px;
+  }
+  .footer-area{
+    padding-bottom: 0px;
+  }
 }
