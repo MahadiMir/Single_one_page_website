@@ -1496,3 +1496,7 @@ textarea {
   text-align: center;
 
 }
+
+.services-item .services-content h3 a{
+  text-transform: capitalize;
+}

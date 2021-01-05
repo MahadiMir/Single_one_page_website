@@ -2,31 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cd96a465-045d-46e4-96ea-881935a63785" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/fonts/LineIcons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/a.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/img-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/about/photothumb.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/d4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/d8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/db1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/db2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/feature/img-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/footer-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/intro-mobile.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/mr.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/photothumb.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-02.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/team/team-04.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +41,7 @@
       <workItem from="1609648647009" duration="6808000" />
       <workItem from="1609663008207" duration="687000" />
       <workItem from="1609778060919" duration="9044000" />
-      <workItem from="1609819793294" duration="2900000" />
+      <workItem from="1609819793294" duration="3239000" />
     </task>
     <servers />
   </component>
