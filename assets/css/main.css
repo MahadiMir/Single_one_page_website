@@ -453,7 +453,7 @@ hr {
 }
 
 .services-item .icon i {
-  font-size: 30px;
+  font-size: 40px;
   color: #EA2027;
   line-height: 70px;
   transition: all 0.3s ease-in-out 0s;
@@ -470,7 +470,7 @@ hr {
 }
 
 .services-item .services-content h3 a {
-  font-size: 16px;
+  font-size: 20px;
   color: #585b60;
 }
 
@@ -1476,7 +1476,7 @@ textarea {
 
 .intro-img{
   width: 600px;
-  margin-left: 140px;
+  margin-left: 60px;
   margin-top: -130px;
 }
 
@@ -1485,8 +1485,14 @@ textarea {
   color: #0b0b0b;
   font-family: 'Hammersmith One', sans-serif;
   font-size: 15px;
+  text-align: justify;
 }
 
 .facebook{
   margin-left: 65px;
+}
+.section-titleabout {
+  /*font-size: 30px;*/
+  text-align: center;
+
 }

@@ -1,6 +1,12 @@
 @media only screen and (max-width: 1919px) {
-  #hero-area .contents .head-title {
-    font-size: 137px;
+  .para {
+    margin-top: 30px;
+    color: #0b0b0b;
+    font-family: 'Hammersmith One', sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    width: 90%;
+    margin-left: 20px;
   }
 }
 /* only small desktops */
